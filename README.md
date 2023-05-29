@@ -1,4 +1,4 @@
-### Holaaa! 👋
+<h1 align="center">Holaaa! 👋</h1>
 
 <!--
 **Bonyfacci/Bonyfacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-# Студент онлайн школы __SkyPro__.
-## ___Курс - Python-разработчик.___
+<h2 align="center">Студент онлайн школы SkyPro⚡</h2>
+<h3 align="center">Курс - Python-разработчик</h3>
 
 
 
-### Мой стек технологий
+### Мой стек технологий:
 ***
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
