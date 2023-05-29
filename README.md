@@ -35,8 +35,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="75" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="75" height="75"/>&nbsp;
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="75" height="75"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="75" height="75"/>&nbsp; -->
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="75" height="75"/>&nbsp; -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="linux" alt="linux" width="75" height="75"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" title="windows" alt="windows" width="150" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="75" height="75"/>&nbsp;
 ***
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="75" height="75"/>&nbsp;
