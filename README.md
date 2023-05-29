@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Студент онлайн школы SkyPro.
-## Курс - Python-разработчик.
+# Студент онлайн школы __SkyPro__.
+## ___Курс - Python-разработчик.___
 
 
 
