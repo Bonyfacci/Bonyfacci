@@ -24,19 +24,20 @@ Here are some ideas to get you started:
 
 ### Мой стек технологий: __🛠️__
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="75" height="75"/>&nbsp;
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="75" height="75"/>&nbsp; -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="75" height="75"/>&nbsp;
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="75" height="75"/>&nbsp;
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="75" height="75"/>&nbsp;
 ***
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="75" height="75"/>&nbsp;
