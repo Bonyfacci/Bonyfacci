@@ -1,4 +1,4 @@
-<h1 align="center">Holaaa! 👋</h1>
+<h1 align="center">Holaaa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!--
 **Bonyfacci/Bonyfacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 👋
+--> 
 
 
 <h2 align="center">Студент онлайн школы SkyPro⚡</h2>
@@ -21,16 +22,21 @@ Here are some ideas to get you started:
 
 
 
-### Мой стек технологий:
+### Мой стек технологий: __🛠️__
 ***
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
 ***
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
 ***
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
 ***
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+***
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
