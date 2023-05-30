@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --> 
 
 
-<h2 align="center">Студент онлайн школы SkyPro ⚡</h2>
+<h2 align="center">Я студент онлайн школы SkyPro ⚡</h2>
 <h3 align="center">Курс - Python-разработчик 📚</h3>
 
 
